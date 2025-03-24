@@ -2,6 +2,7 @@
 ## Sobre o projeto
 
 Criei uma calculadora simples utilizando HTML,CSS e JAVASCRIPT
+Pode realizar operações de soma, subtração, multiplicação e divisão.
 
 ## PRINT RESULTADO
 
