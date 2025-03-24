@@ -1,7 +1,7 @@
 # Calculadora simples FRONT END
 ## Sobre o projeto
 
-Criei uma calculadora simples utilizando HTML,CSS e JAVASCRIPT
+Criei uma calculadora simples utilizando HTML,CSS e JavaScript <br>
 Pode realizar operações de soma, subtração, multiplicação e divisão.
 
 ## PRINT RESULTADO
